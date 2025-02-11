@@ -77,7 +77,7 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"꧁࿐༵༆༒𓄂𝔇𝔞𝔯𝔨𓂀𝔏𝔦𝔶𝔬𓃬༒༆࿐༵ ꧂",
       "value":"BWM-XMD",
       "required":false
 
@@ -108,7 +108,7 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
+    "description":"Enter here the number that is hosting the bot Eg, +94779702531",   
       "value":"",
     "required":true
       
